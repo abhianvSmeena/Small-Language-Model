@@ -16,13 +16,6 @@ This repository contains the complete implementation of **Gemma-3 Small Language
 * Trained on TinyStories with **PyTorch** for reproducible and scalable experiments.
 * Includes evaluation scripts for **perplexity measurement** and text generation.
 
-## 📂 Repository Structure
-
-* `notebooks/` – Jupyter notebooks documenting each step of the build.
-* `data/` – Preprocessed TinyStories dataset files (`train.bin`, `validation.bin`).
-* `model/` – Implementation of transformer blocks, attention, and training utilities.
-* `outputs/` – Checkpoints and sample generations.
-
 ## 📊 Results
 
 * Achieved strong text generation on **TinyStories** with low perplexity.
