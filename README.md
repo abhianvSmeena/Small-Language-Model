@@ -27,8 +27,3 @@ This repository contains the complete implementation of **Gemma-3 Small Language
 
 * Achieved strong text generation on **TinyStories** with low perplexity.
 * Demonstrated scalability from a small model (50M) to \~270M parameters.
-
-## 🌟 Acknowledgements
-
-* Inspired by Vizuara’s “Build Gemma-3 from Scratch” series.
-* Dataset generated using **GPT-3.5 and GPT-4**.
